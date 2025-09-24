@@ -50,7 +50,7 @@ Para executar este projeto localmente, siga os passos abaixo:
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd seu-repositorio
+    cd challenge-amigo-secreto_pt
     ```
 3.  **Abra o arquivo `index.html` no seu navegador:**
     -   Você pode simplesmente clicar duas vezes no arquivo ou arrastá-lo para a janela do seu navegador de preferência.
